@@ -5,6 +5,9 @@ New language based on Smalltalk.
 ## Grammar 
 [Basics](/BigTalkGrammar.md) for the statically typed structured programming language.
 
+## Parser
+[Rules](/BigTalkParser.md) For the parser.
+
 ## Setup
 ### Installing smalltalk code
 filein all the .st files
