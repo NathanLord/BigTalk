@@ -1,4 +1,4 @@
-## In this assignment you will create a PEG grammar for BigTalk.
+## PEG grammar for BigTalk.
 
 BigTalk is a statically typed structured programming language. The language structures supported are demonstrated below.
 #### Program Declaration
